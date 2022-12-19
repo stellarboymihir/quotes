@@ -18,7 +18,10 @@ class _QuoteListState extends State<QuoteList> {
   List<Quote> quotes = [
     Quote(author: 'Dalai Lama', text: 'The purpose of our lives is to be happy.'),
     Quote(author: 'Stephen King', text: 'Get busy living or get busy dying.'),
-    Quote(author: 'Ernest Hemingway', text: 'In order to write about life first you must live it.')
+    Quote(author: 'Ernest Hemingway', text: 'In order to write about life first you must live it.'),
+    Quote(author: 'Socrates', text: 'The unexamined life is not worth living.'),
+    Quote(author: 'Oprah Winfrey', text: 'Turn your wounds into wisdom'),
+    Quote(author: 'LeBron James', text: 'I like criticism. It makes you strong,')
   ];
 
   @override
